@@ -1,0 +1,9 @@
+*Input/Inisiasi
+  1.Bilangan 'n'
+  2.Hitunglah sisa 'n' dengan 2(n%2)
+  3.Masukkan angka
+*Proses
+  4.Jika angka bisa dibagi 2 sisanya adalah 0 maka angka tersebut genap 
+  5.Jika tidak bisa dibagi 2 maka angka tersebut ganjil
+*Output
+  6.Hasil ditampilkan sesuai dengan bilangan yang dimasukkan pengguna.

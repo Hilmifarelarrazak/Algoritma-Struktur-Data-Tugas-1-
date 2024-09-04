@@ -1,0 +1,15 @@
+*Input/Inisiasi
+   1.Bulan masuk=September2024
+   2.Semester2=February2025
+   3.Semester3=Agustus2025
+   4.Semester4=February2026
+   5.Semester5=Agustus2026
+   6.Semester6=February2027
+   7.Semester7=Agustus2027
+   8.Semester8=February2028
+*Proses
+   9.Selisih tahun menunjukkan berapa lama mahasiswa sudah kuliah
+   10.Semester dihitung berdasarkan selisih tahun dengan asumsi setiap tahun ada dua semester
+      jika selisih tahun genap maka mahasiswa sudah menyelesaikan semester genap
+*Output
+   11.Mahasiswa wisuda

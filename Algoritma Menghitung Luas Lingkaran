@@ -1,0 +1,8 @@
+*Input/Inisiasi
+   1.Masukkan nilai jari-jari(r)
+   2.Hitung luas dengan rumus:luas= π*r^2
+   3.Tampilkan luas dalam cm²
+*Proses
+   4.Hitung luas=π x jari-jari x jari-jari
+*Output
+   5.Tampilkan luar
